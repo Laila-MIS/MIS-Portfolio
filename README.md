@@ -20,10 +20,6 @@ Interactive visualization and time-based analysis of market data using Python an
 Data mining project applying Decision Tree classification to predict startup profitability.
 [View Repository](https://github.com/Laila-MIS/startup-profitability-classification)
 
-### 🗄️ Structured MIS Portfolio
-Relational database design and business logic modeling.
-[View Repository](https://github.com/Laila-MIS/MIS-Portfolio)
-
 ---
 
 ## 📫 Connect with Me
